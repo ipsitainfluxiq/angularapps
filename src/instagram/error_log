@@ -1,0 +1,8 @@
+[15-Nov-2018 13:24:16 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/audiodeadline/public_html/demo_artistxp/instagram/instaredirect.php on line 46
+[15-Nov-2018 13:24:18 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/audiodeadline/public_html/demo_artistxp/instagram/instaredirect.php on line 46
+[15-Nov-2018 13:37:54 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/audiodeadline/public_html/demo_artistxp/instagram/index.php on line 20
+[15-Nov-2018 13:38:44 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/audiodeadline/public_html/demo_artistxp/instagram/index.php on line 20
+[15-Nov-2018 13:38:46 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/audiodeadline/public_html/demo_artistxp/instagram/index.php on line 20
+[15-Nov-2018 13:39:14 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/audiodeadline/public_html/demo_artistxp/instagram/index.php on line 20
+[15-Nov-2018 13:39:16 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/audiodeadline/public_html/demo_artistxp/instagram/index.php on line 20
+[15-Nov-2018 13:40:01 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/audiodeadline/public_html/demo_artistxp/instagram/index.php on line 20
